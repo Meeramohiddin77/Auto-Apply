@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Copilot",
+  "description": "Premium AI Career Copilot platform specialized in Indian tech, medical, and department roles, offering speech-interactive AI mock interviews, smart job matching, and AI-led job scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
